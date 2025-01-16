@@ -1,5 +1,4 @@
-> [home](/)
-> &bull; [programming](/programming)
+> [home](/programming)
 
 ![banner](photos/banner.png)
 
