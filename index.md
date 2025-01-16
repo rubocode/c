@@ -1,5 +1,5 @@
-> [home](/programming)
-> &bull; Work in progress...
+> [home](/)
+> &bull; [programming](/programming)
 
 ![banner](photos/banner.png)
 
