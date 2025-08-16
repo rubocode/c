@@ -1,4 +1,4 @@
-> [home](/programming)
+> [home](/computing)
 
 ![banner](photos/banner.png)
 
